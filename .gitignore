@@ -1,0 +1,24 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de compilación
+dist/
+build/
+
+# Archivos de entorno (variables privadas)
+.env
+.env.local
+
+# Archivos de registro (logs)
+*.log
+
+# Archivos temporales o de sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Cachés
+.cache/
